@@ -60,3 +60,4 @@
 const birthYearJohn = 2000;
 const birthYearMarc = 1990;
 let ageJohn, ageMarc;
+
